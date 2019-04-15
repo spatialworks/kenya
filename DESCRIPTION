@@ -20,3 +20,5 @@ LazyData: true
 RoxygenNote: 6.1.1
 URL: https://github.com/validmeasures/kenya
 BugReports: https://github.com/validmeasures/kenya/issues
+Suggests: 
+    covr
