@@ -1,0 +1,8 @@
+pandoc: 2.0.4
+pkgdown: 1.3.0
+pkgdown_sha: ~
+articles: []
+urls:
+  reference: https://validmeasures.org/kenya/reference
+  article: https://validmeasures.org/kenya/articles
+
