@@ -7,6 +7,8 @@
 status](https://travis-ci.org/validmeasures/kenya.svg?branch=master)](https://travis-ci.org/validmeasures/kenya)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/validmeasures/kenya?branch=master&svg=true)](https://ci.appveyor.com/project/validmeasures/kenya)
+[![Codecov test
+coverage](https://codecov.io/gh/validmeasures/kenya/branch/master/graph/badge.svg)](https://codecov.io/gh/validmeasures/kenya?branch=master)
 
 Designing surveys require relevant datasets to be used as basis for
 sample size calculations, sampling design, survey planning/logistics and
