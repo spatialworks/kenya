@@ -46,4 +46,9 @@ settlements
 \description{
 Settlements of Kenya
 }
+\examples{
+# View settlements SpatialPointsDataFrame
+settlements
+
+}
 \keyword{datasets}

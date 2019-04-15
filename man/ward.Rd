@@ -24,4 +24,9 @@ ward
 \description{
 Administrative Level 3 (wards) map of Kenya
 }
+\examples{
+# View ward SpatialPolygonsDataFrame
+ward
+
+}
 \keyword{datasets}
