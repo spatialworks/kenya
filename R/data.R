@@ -38,6 +38,10 @@ NULL
 #'
 #' @source \url{https://data.humdata.org/dataset/administrative-wards-in-kenya-1450}
 #'
+#' @examples
+#' # View ward SpatialPolygonsDataFrame
+#' ward
+#'
 #
 ################################################################################
 "ward"
@@ -63,6 +67,10 @@ NULL
 #' }
 #'
 #' @source \url{http://fews.net/east-africa/kenya/livelihood-zone-map/march-2011}
+#'
+#' @examples
+#' # View lhz SpatialPolygonsDataFrame
+#' lhz
 #'
 #
 ################################################################################
@@ -109,6 +117,10 @@ NULL
 #' }
 #'
 #' @source \url{https://data.humdata.org/dataset/kenya-settlements-0}
+#'
+#' @examples
+#' # View settlements SpatialPointsDataFrame
+#' settlements
 #'
 #
 ################################################################################
