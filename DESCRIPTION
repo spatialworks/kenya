@@ -12,6 +12,9 @@ Description: Designing surveys require relevant datasets to be used as basis for
     contains relevant datasets for use in designing surveys in Kenya.
 License: CC0
 Depends: R (>= 2.10)
+Imports: rgdal,
+    rgeos,
+    raster
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.1
