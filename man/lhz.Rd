@@ -26,4 +26,9 @@ lhz
 \description{
 Livelihood zones map of Kenya
 }
+\examples{
+# View lhz SpatialPolygonsDataFrame
+lhz
+
+}
 \keyword{datasets}
