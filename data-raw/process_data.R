@@ -5,6 +5,7 @@
 ################################################################################
 require(raster)
 require(rgdal)
+require(readxl)
 
 
 ################################################################################
@@ -59,6 +60,16 @@ settlements$FULL_NAME <- stringr::str_remove(settlements$FULL_NAME, "'")
 settlements$FULL_NAME_ <- stringr::str_remove(settlements$FULL_NAME_, "'")
 
 usethis::use_data(settlements, overwrite = TRUE)
+
+################################################################################
+#
+# Villages
+#
+################################################################################
+
+villages <- read_xls(path = "kenya_villages.xls", sheet = 1)
+
+villages <- readOGR(dsn = "data-raw/kenya_villages", layer = "kenya_villages", verbose = FALSE)
 
 
 pcodes <- "https://drive.google.com/file/d/1tmCb6BcJKKn8sOuaWsV_RN4P3MvQV4wb/view?usp=drive_web"
