@@ -3,7 +3,7 @@
 \docType{data}
 \name{settlements}
 \alias{settlements}
-\title{settlements}
+\title{Settlements of Kenya}
 \format{A SpatialPointsDataFrame with 2675 features:
 \describe{
 \item{\code{Z__}}{Z__}

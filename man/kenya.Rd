@@ -4,11 +4,8 @@
 \name{kenya}
 \alias{kenya}
 \alias{kenya-package}
-\title{kenya}
+\title{Datasets for Use in Designing Surveys in Kenya}
 \description{
-Datasets for Use in Designing Surveys in Kenya
-}
-\details{
 Designing surveys require relevant datasets to be used as basis for
 sample size calculations, sampling design, survey planning/logistics and
 survey implementation. These include datasets on population, lists of sampling

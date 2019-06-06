@@ -3,7 +3,7 @@
 \docType{data}
 \name{lhz}
 \alias{lhz}
-\title{lhz}
+\title{Livelihood zones map of Kenya}
 \format{A SpatialPolygonsDataFrame with 24 features:
 \describe{
 \item{\code{FNID}}{Feature identifier}

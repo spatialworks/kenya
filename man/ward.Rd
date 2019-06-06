@@ -3,7 +3,7 @@
 \docType{data}
 \name{ward}
 \alias{ward}
-\title{ward}
+\title{Administrative Level 3 (wards) map of Kenya}
 \format{A SpatialPolygonsDataFrame with 1450 features:
 \describe{
 \item{\code{gid}}{Geographic identifier}
