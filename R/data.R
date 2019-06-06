@@ -1,7 +1,5 @@
 ################################################################################
 #
-#' kenya
-#'
 #' Datasets for Use in Designing Surveys in Kenya
 #'
 #' Designing surveys require relevant datasets to be used as basis for
@@ -20,8 +18,6 @@ NULL
 
 ################################################################################
 #
-#' ward
-#'
 #' Administrative Level 3 (wards) map of Kenya
 #'
 #' @format A SpatialPolygonsDataFrame with 1450 features:
@@ -48,8 +44,6 @@ NULL
 
 ################################################################################
 #
-#' lhz
-#'
 #' Livelihood zones map of Kenya
 #'
 #' @format A SpatialPolygonsDataFrame with 24 features:
@@ -78,8 +72,6 @@ NULL
 
 ################################################################################
 #
-#' settlements
-#'
 #' Settlements of Kenya
 #'
 #' @format A SpatialPointsDataFrame with 2675 features:
