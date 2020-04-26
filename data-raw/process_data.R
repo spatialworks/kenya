@@ -76,6 +76,10 @@ pcodes <- "https://drive.google.com/file/d/1tmCb6BcJKKn8sOuaWsV_RN4P3MvQV4wb/vie
 markets <- "https://docs.google.com/spreadsheets/d/1O2Oipg3oO_UL90wPsxJqU-xMV3SNAOXzZ5DKfFMYI6g/edit?usp=drive_web"
 
 
+################################################################################
+
+x <- read.delim(file = "data-raw/KE.txt", header = FALSE)
+
 
 
 
