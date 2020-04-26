@@ -4,7 +4,8 @@
 \name{ward}
 \alias{ward}
 \title{Administrative Level 3 (wards) map of Kenya}
-\format{A SpatialPolygonsDataFrame with 1450 features:
+\format{
+A SpatialPolygonsDataFrame with 1450 features:
 \describe{
 \item{\code{gid}}{Geographic identifier}
 \item{\code{pop2009}}{Ward population in 2009}
@@ -14,7 +15,8 @@
 \item{\code{uid}}{Unique identifier}
 \item{\code{scuid}}{Subcounty unique identifier}
 \item{\code{cuid}}{County unique identifier}
-}}
+}
+}
 \source{
 \url{https://data.humdata.org/dataset/administrative-wards-in-kenya-1450}
 }
