@@ -1,15 +1,14 @@
 ################################################################################
 #
-#' kenya
-#'
 #' Datasets for Use in Designing Surveys in Kenya
 #'
 #' Designing surveys require relevant datasets to be used as basis for
 #' sample size calculations, sampling design, survey planning/logistics and
-#' survey implementation. These include datasets on population, lists of sampling
-#' clusters, map datasets for spatial sampling, and previous survey datasets that
-#' can be used for estimating indicator variance and design effects. This package
-#' contains relevant datasets for use in designing surveys in Kenya.
+#' survey implementation. These include datasets on population, lists of
+#' sampling clusters, map datasets for spatial sampling, and previous survey
+#' datasets that can be used for estimating indicator variance and design
+#' effects. This package contains relevant datasets for use in designing
+#' surveys in Kenya.
 #'
 #' @docType package
 #' @name kenya
@@ -20,8 +19,6 @@ NULL
 
 ################################################################################
 #
-#' ward
-#'
 #' Administrative Level 3 (wards) map of Kenya
 #'
 #' @format A SpatialPolygonsDataFrame with 1450 features:
@@ -48,8 +45,6 @@ NULL
 
 ################################################################################
 #
-#' lhz
-#'
 #' Livelihood zones map of Kenya
 #'
 #' @format A SpatialPolygonsDataFrame with 24 features:
@@ -78,8 +73,6 @@ NULL
 
 ################################################################################
 #
-#' settlements
-#'
 #' Settlements of Kenya
 #'
 #' @format A SpatialPointsDataFrame with 2675 features:

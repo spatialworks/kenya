@@ -3,8 +3,9 @@
 \docType{data}
 \name{settlements}
 \alias{settlements}
-\title{settlements}
-\format{A SpatialPointsDataFrame with 2675 features:
+\title{Settlements of Kenya}
+\format{
+A SpatialPointsDataFrame with 2675 features:
 \describe{
 \item{\code{Z__}}{Z__}
 \item{\code{UFI}}{Unique feature identifier (UTM)}
@@ -36,7 +37,8 @@
 \item{\code{REGION}}{Region name}
 \item{\code{LOCATION}}{Location name}
 \item{\code{SUB_LOCATI}}{Sub-location name}
-}}
+}
+}
 \source{
 \url{https://data.humdata.org/dataset/kenya-settlements-0}
 }

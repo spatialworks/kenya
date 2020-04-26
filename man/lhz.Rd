@@ -3,8 +3,9 @@
 \docType{data}
 \name{lhz}
 \alias{lhz}
-\title{lhz}
-\format{A SpatialPolygonsDataFrame with 24 features:
+\title{Livelihood zones map of Kenya}
+\format{
+A SpatialPolygonsDataFrame with 24 features:
 \describe{
 \item{\code{FNID}}{Feature identifier}
 \item{\code{EFF_YEAR}}{Year}
@@ -16,7 +17,8 @@
 \item{\code{LZNAMESP}}{Livelihood zone name - Spanish}
 \item{\code{LZNAMEPT}}{Livelihood zone name - Portuguese}
 \item{\code{CLASS}}{Livelihood zone class}
-}}
+}
+}
 \source{
 \url{http://fews.net/east-africa/kenya/livelihood-zone-map/march-2011}
 }

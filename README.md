@@ -1,14 +1,17 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# kenya: Datasets for Use in Designing Surveys in Kenya <img src="man/figures/kenya.png" width="200" align="right" />
+# kenya: Datasets for Use in Designing Surveys in Kenya <img src="https://www.cia.gov/library/publications/resources/the-world-factbook/attachments/flags/KE-flag.gif" width="200" align="right" />
+
+<!--- Badges start here --->
 
 [![Travis build
-status](https://travis-ci.org/validmeasures/kenya.svg?branch=master)](https://travis-ci.org/validmeasures/kenya)
+status](https://travis-ci.org/spatialworks/kenya.svg?branch=master)](https://travis-ci.org/spatialworks/kenya)
 [![AppVeyor build
-status](https://ci.appveyor.com/api/projects/status/github/validmeasures/kenya?branch=master&svg=true)](https://ci.appveyor.com/project/validmeasures/kenya)
+status](https://ci.appveyor.com/api/projects/status/github/spatialworks/kenya?branch=master&svg=true)](https://ci.appveyor.com/project/spatialworks/kenya)
 [![Codecov test
-coverage](https://codecov.io/gh/validmeasures/kenya/branch/master/graph/badge.svg)](https://codecov.io/gh/validmeasures/kenya?branch=master)
+coverage](https://codecov.io/gh/spatialworks/kenya/branch/master/graph/badge.svg)](https://codecov.io/gh/spatialworks/kenya?branch=master)
+<!--- Badges end here --->
 
 Designing surveys require relevant datasets to be used as basis for
 sample size calculations, sampling design, survey planning/logistics and
@@ -20,9 +23,9 @@ designing surveys in Kenya.
 
 ## Installation
 
-Install `kenya` package from GitHub via `devtools`:
+Install `kenya` package from GitHub via `remotes`:
 
 ``` r
-if(!require(devtools)) install.packages("devtools")
-install_github("validmeasures/kenya")
+if(!require(remotes)) install.packages("remotes")
+remotes::install_github("spatialworks/kenya")
 ```
