@@ -1,0 +1,17 @@
+title: kenya
+url: https://spatialworks.io/kenya
+template:
+  params:
+    bootswatch: sandstone
+    #ganalytics: UA-102485058-5
+
+reference:
+- title: Description
+  contents:
+  - kenya
+
+- title: Datasets
+  contents:
+  - ward
+  - settlements
+  - lhz
