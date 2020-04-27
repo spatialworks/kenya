@@ -1,8 +1,9 @@
 pandoc: 2.3.1
-pkgdown: 1.3.0
+pkgdown: 1.5.1
 pkgdown_sha: ~
 articles: []
+last_built: 2020-04-27T00:32Z
 urls:
-  reference: https://validmeasures.org/kenya/reference
-  article: https://validmeasures.org/kenya/articles
+  reference: https://spatialworks.io/kenya/reference
+  article: https://spatialworks.io/kenya/articles
 
